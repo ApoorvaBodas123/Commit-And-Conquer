@@ -1,6 +1,6 @@
 import AdminLoginPage from "@/components/adminLogin"
 
-function page() {
+function Page() {
   return (
     <div>
       <AdminLoginPage/>
@@ -8,4 +8,4 @@ function page() {
   )
 }
 
-export default page
+export default Page;
